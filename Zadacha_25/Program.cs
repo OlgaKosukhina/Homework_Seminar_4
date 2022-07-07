@@ -24,27 +24,6 @@ int GetNumber(string message)
     return result;
 }
 
-// int GetSecondNumber(string message)
-// {
-//     int result = 0;
-
-//     while (true)
-//     {
-//         Console.WriteLine(message);
-
-//         if (int.TryParse(Console.ReadLine(), out result))
-//         {
-//             break;
-//         }
-//         else
-//         {
-//             Console.Clear();
-//             Console.WriteLine("You input not a number. Please input the correct number.");
-//         }
-//     }
-//     return result;
-// }
-
 void GetDegree(int firstNumber, int secondNumber)
 {
     double degree = 1;
