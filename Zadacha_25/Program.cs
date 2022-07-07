@@ -3,7 +3,7 @@
 2, 4 -> 16
 */
 
-int GetFirstNumber(string message)
+int GetNumber(string message)
 {
     int result = 0;
 
@@ -24,26 +24,26 @@ int GetFirstNumber(string message)
     return result;
 }
 
-int GetSecondNumber(string message)
-{
-    int result = 0;
+// int GetSecondNumber(string message)
+// {
+//     int result = 0;
 
-    while (true)
-    {
-        Console.WriteLine(message);
+//     while (true)
+//     {
+//         Console.WriteLine(message);
 
-        if (int.TryParse(Console.ReadLine(), out result))
-        {
-            break;
-        }
-        else
-        {
-            Console.Clear();
-            Console.WriteLine("You input not a number. Please input the correct number.");
-        }
-    }
-    return result;
-}
+//         if (int.TryParse(Console.ReadLine(), out result))
+//         {
+//             break;
+//         }
+//         else
+//         {
+//             Console.Clear();
+//             Console.WriteLine("You input not a number. Please input the correct number.");
+//         }
+//     }
+//     return result;
+// }
 
 void GetDegree(int firstNumber, int secondNumber)
 {
@@ -57,6 +57,6 @@ void GetDegree(int firstNumber, int secondNumber)
     Console.WriteLine($"The number {firstNumber} to the {secondNumber} degree is {degree}.");
 }
 
-int firstNumber = GetFirstNumber("Insert first number.");
-int secondNumber = GetSecondNumber("Insert second number.");
+int firstNumber = GetNumber("Insert first number.");
+int secondNumber = GetNumber("Insert second number.");
 GetDegree(firstNumber, secondNumber);
