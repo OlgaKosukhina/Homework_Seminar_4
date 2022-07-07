@@ -1,0 +1,15 @@
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/bin/Debug/net6.0/Zadacha_25
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/bin/Debug/net6.0/Zadacha_25.deps.json
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/bin/Debug/net6.0/Zadacha_25.runtimeconfig.json
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/bin/Debug/net6.0/Zadacha_25.dll
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/bin/Debug/net6.0/Zadacha_25.pdb
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.csproj.AssemblyReference.cache
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.AssemblyInfoInputs.cache
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.AssemblyInfo.cs
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.csproj.CoreCompileInputs.cache
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.dll
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/refint/Zadacha_25.dll
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.pdb
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/Zadacha_25.genruntimeconfig.cache
+/Users/olgakosuhina/Desktop/study/seminar_4_c#/homework/Zadacha_25/obj/Debug/net6.0/ref/Zadacha_25.dll
